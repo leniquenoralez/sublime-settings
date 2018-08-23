@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"Elm Language Support",
+		"Emmet",
+		"GitSavvy",
+		"Handlebars",
+		"HTML Mustache",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint Gutter",
+		"Package Control",
+		"SFTP",
+		"Simple FTP Deploy"
+	]
+}

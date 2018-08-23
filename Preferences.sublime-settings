@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"font_size": 11,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": true,
+	"theme": "ayu-dark.sublime-theme"
+}
